@@ -1,6 +1,6 @@
 # 🔋 Battery Voltage Monitor with XIAO ESP32-C6 + 220kΩ Divider
 
-![XIAO ESP32C6](Files/checkbattery.png)
+![XIAO ESP32C6](https://github.com/jhherre3/XIAO-ESP32-C6/blob/main/Files/checkbattery.png)
 
 This project reads and displays the **battery voltage level** using a **custom voltage divider** built with two **220kΩ resistors**, allowing the Seeed Studio **XIAO ESP32-C6** to safely monitor Li-ion or LiPo battery levels.
 
